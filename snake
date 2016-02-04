@@ -1,0 +1,17 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Snake
+{
+class Program
+{
+static vold Main( string[] args )
+{
+Console.Writeln("Hello World@);
+Console.Readln();
+}
+}
+}
